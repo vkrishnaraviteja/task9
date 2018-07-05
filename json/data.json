@@ -1,0 +1,55 @@
+{
+  "profiles":[
+
+  {
+    "id":1,
+    "name":"vkrt",
+    "label":"IOT",
+    "company":"infosys",
+    "education":[
+      {
+        "degree":"B-Tech (computer science and engineering)",
+        "institute":"PSCMR",
+        "data":["82%","2015-19"]
+      },
+      {
+        "degree":"B-Tech (computer science and engineering)",
+        "institute":"PSCMR",
+        "data":["82%","2015-19"]
+      },
+      {
+        "degree":"B-Tech (computer science and engineering)",
+        "institute":"PSCMR",
+        "data":["82%","2015-19"]
+      },
+      {
+        "degree":"B-Tech (computer science and engineering)",
+        "institute":"PSCMR",
+        "data":["82%","2015-19"]
+      }
+    ]
+  },
+
+  {
+       "id":2,
+      "name":"krishna",
+      "label":"front-end",
+      "company":"polaris"
+
+    },
+
+
+      {
+        "id":3,
+        "name":"Ravi",
+        "label":"Tech-lead",
+        "company":"CA"
+      },
+        {
+          "id":4,
+          "name":"Teja",
+          "label":"DBA",
+          "company":"infosys"
+        }
+]
+}
